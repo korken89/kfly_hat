@@ -19,4 +19,5 @@
   (lib (name solder_jumpers)(type KiCad)(uri "$(KIPRJMOD)/kicad_libs/footprints/solder_jumpers.pretty")(options "")(descr ""))
   (lib (name sot)(type KiCad)(uri "$(KIPRJMOD)/kicad_libs/footprints/sot.pretty")(options "")(descr ""))
   (lib (name usb)(type KiCad)(uri "$(KIPRJMOD)/kicad_libs/footprints/usb.pretty")(options "")(descr ""))
+  (lib (name qfp)(type KiCad)(uri "$(KIPRJMOD)/kicad_libs/footprints/qfp.pretty")(options "")(descr ""))
 )
