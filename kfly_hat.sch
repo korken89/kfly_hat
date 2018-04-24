@@ -2062,7 +2062,7 @@ U 1 1 5B12CA8A
 P 13550 4350
 F 0 "U9" H 13900 4700 50  0000 C CNN
 F 1 "TJA1051TK-3" H 14000 4000 50  0000 C CNN
-F 2 "Package_DFN_QFN:DFN-8-1EP_3x3mm_P0.65mm_EP1.55x2.4mm" H 13550 3850 50  0001 C CIN
+F 2 "dfn:DFN-8-1EP_3x3mm_P0.65mm_EP1.55x2.4mm" H 13550 3850 50  0001 C CIN
 F 3 "http://www.nxp.com/documents/data_sheet/TJA1051.pdf" H 13550 4350 50  0001 C CNN
 	1    13550 4350
 	-1   0    0    -1  
@@ -2535,7 +2535,7 @@ U 1 1 5ADEDF61
 P 5300 4450
 F 0 "MK1" H 5400 4496 50  0000 L CNN
 F 1 "Mounting_Hole" H 5400 4405 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3.2mm_M3" H 5300 4450 50  0001 C CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 5300 4450 50  0001 C CNN
 F 3 "" H 5300 4450 50  0001 C CNN
 	1    5300 4450
 	1    0    0    -1  
@@ -2546,7 +2546,7 @@ U 1 1 5ADEE1A8
 P 5300 4650
 F 0 "MK2" H 5400 4696 50  0000 L CNN
 F 1 "Mounting_Hole" H 5400 4605 50  0000 L CNN
-F 2 "MountingHole:MountingHole_3.2mm_M3" H 5300 4650 50  0001 C CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 5300 4650 50  0001 C CNN
 F 3 "" H 5300 4650 50  0001 C CNN
 	1    5300 4650
 	1    0    0    -1  
